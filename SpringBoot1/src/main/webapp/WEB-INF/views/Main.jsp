@@ -289,7 +289,7 @@
 			
 			<!-- 비동기 통신으로 회원가입 이메일 가입 여부를 체크할 수 있는 기능 -->
 			<script type="text/javascript">
-				function checkEmail(){
+				function CheckEmail(){
 					// ajax : JS에서 비동기 통신을 위해 사용하는 기술!
 					
 					// 1. 입력된 이메일 가져오기
